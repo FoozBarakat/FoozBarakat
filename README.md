@@ -11,9 +11,9 @@
 ### 👋 About Me
 I'm enthusiastic about data and have a talent for transforming information into valuable insights. With a background in electrical engineering and sales, I'm skilled in Python, machine learning, and data analysis. I love solving problems and helping businesses make smarter decisions.
 
-📧 [reachfooz@gmail.com](mailto:reachfooz@gmail.com)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fooz-barakat/)
-🧩 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=flat&logo=leetcode)](https://leetcode.com/[your-username]/)
+- 📧 [reachfooz@gmail.com](mailto:reachfooz@gmail.com)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fooz-barakat/)
+- 🧩 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/Fooz_Barakat/)
 
 ---
 
