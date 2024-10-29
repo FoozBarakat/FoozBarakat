@@ -28,13 +28,13 @@ I'm enthusiastic about data and have a talent for transforming information into 
 
 ### 📈 Projects
 #### [Prediction of Product Sales](https://github.com/FoozBarakat/Prediction-of-Product-Sales)
-- **Role**: Data Analyst
-- **Summary**: Analyzed and visualized sales data to uncover trends and insights for better decision-making using Python (Pandas, Seaborn).
+- **Role**: Data Scientist
+- **Summary**: Conducted in-depth analysis and modeling of sales data to identify key drivers of sales and improve decision-making, utilizing Python (Pandas, Seaborn, Scikit-Learn).
 - **Key Achievements**:
   - Performed exploratory data analysis (EDA) to identify patterns.
   - Cleaned and preprocessed data for accurate analysis.
   - Visualized sales distributions and trends for improved inventory management and sales forecasting.
-
+  - Developed and evaluated predictive models (Linear Regression and Random Forest) to identify key factors influencing sales, using metrics like MAE and R² for performance assessment.
 ---
 
 > 📝 Looking for opportunities to bring data-driven decision-making to new heights. Let's make an impact together!
